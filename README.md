@@ -1,3 +1,6 @@
+1. Git-hub (원격 저장소와 origin)
+2. git clone
+
 git log --oneline --all --graph
 - 그래프 보는 명령어 (뭐 git graph로 보긴하지만) 
 dd791fe (HEAD -> master, origin/master) v1
